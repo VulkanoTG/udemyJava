@@ -30,7 +30,7 @@ public class exercise05 {
         value = b * c + e * f;
 
         System.out.printf("O valor total a ser pago é de %.2f", value);
-
+        sc.close();
 
     }
 }

@@ -28,6 +28,6 @@ public class exercise06 {
         System.out.printf("Área do Quadrado: %.3f\n", valued);
         System.out.printf("Área do Retangulo: %.3f\n", valuee);
 
-
+        sc.close();
     }
 }

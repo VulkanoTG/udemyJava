@@ -18,7 +18,7 @@ public class exercise02 {
 
         System.out.printf("A area do circulo é de %.2fm²", value);
 
-
+        sc.close();
 
     }
 

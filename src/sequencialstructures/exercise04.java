@@ -22,6 +22,6 @@ public class exercise04 {
 
         System.out.println("Funcionario n°: " + a);
         System.out.printf(Locale.US, "Salário: $%.2f", value);
-
+        sc.close();
     }
 }

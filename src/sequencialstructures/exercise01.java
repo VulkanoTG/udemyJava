@@ -16,5 +16,6 @@ public class exercise01 {
         value = a + b;
 
         System.out.printf("A Soma entre os Valores %d e %d é igual a: %d", a, b, value);
+        sc.close();
     }
 }

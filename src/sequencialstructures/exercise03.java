@@ -19,6 +19,7 @@ public class exercise03 {
         value = a * b - c * d;
 
         System.out.printf("A diferença entre o produto de %d, %d e %d, %d é de %d", a, b, c, d, value);
+        sc.close();
     }
 
 }
